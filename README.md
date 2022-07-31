@@ -1,2 +1,2 @@
 # Project11
-Peggle game
+Game Peggle
